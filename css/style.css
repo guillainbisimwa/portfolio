@@ -26,6 +26,11 @@ img {
   height: auto;
 }
 
+a {
+  color: var(--gray-color) !important;
+  text-decoration: none;
+}
+
 a:hover {
   color: var(--primary-color) !important;
   text-decoration: none;

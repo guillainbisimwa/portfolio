@@ -1,85 +1,85 @@
 /* Style Sheet */
 
 :root {
-    --primary-color: #ec5242;
-    --dark-color: #0e0e0e;
-    --gray-color: #d3d3d3;
-    --gray-60-color: #2120204d;
-    --white-transparent: #f6f7f726;
-    --primary-transparent: #ec5242bf;
-  }
+  --primary-color: #ec5242;
+  --dark-color: #0e0e0e;
+  --gray-color: #d3d3d3;
+  --gray-60-color: #2120204d;
+  --white-transparent: #f6f7f726;
+  --primary-transparent: #ec5242bf;
+}
 
-  body {
-      background: url(../assets/bg.jpeg);
-  }
+body {
+  background: url(../assets/bg.jpeg);
+}
 
-  /* GLOBALS */
-  
-  html {
-    font-size: 85%;
-    box-sizing: border-box;
-    font-family: "Lato", sans-serif;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-  
-  a:hover {
-    color: var(--primary-color) !important;
-    text-decoration: none;
-  }
-  
-  p {
-    margin-bottom: 0 !important;
-  }
-  
-  /* COLORS */
-  
-  .c-primary {
-    color: var(--primary-color) !important;
-  }
-  
-  .c-dark {
-    color: var(--dark-color);
-  }
-  
-  .c-gray {
-    color: var(--gray-color);
-  }
-  
-  .bg-primary_ {
-    background-color: var(--primary-color) !important;
-  }
-  
-  .bg-dark {
-    background-color: var(--dark-color);
-  }
-  
-  .bg-gray {
-    background-color: var(--gray-color);
-  }
-  
-  .bg-w-transparent {
-    background-color: var(--white-transparent);
-  }
-  
-  .row {
-    margin: 0;
-  }
-  
-  .col-sm,
-  .col-sm-2,
-  .col-sm-6,
-  .col-sm-8,
-  .col-sm-4 {
-    padding: 0;
-  }
-  
-  .col-gap {
-    column-gap: 1.5rem;
-  }
+/* GLOBALS */
+
+html {
+  font-size: 95%;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a:hover {
+  color: var(--primary-color) !important;
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
+
+/* COLORS */
+
+.c-primary {
+  color: var(--primary-color) !important;
+}
+
+.c-dark {
+  color: var(--dark-color);
+}
+
+.c-gray {
+  color: var(--gray-color);
+}
+
+.bg-primary_ {
+  background-color: var(--primary-color) !important;
+}
+
+.bg-dark {
+  background-color: var(--dark-color);
+}
+
+.bg-gray {
+  background-color: var(--gray-color);
+}
+
+.bg-w-transparent {
+  background-color: var(--white-transparent);
+}
+
+.row {
+  margin: 0;
+}
+
+.col-sm,
+.col-sm-2,
+.col-sm-6,
+.col-sm-8,
+.col-sm-4 {
+  padding: 0;
+}
+
+.col-gap {
+  column-gap: 1.5rem;
+}
 /*   
   /* Header 
   button.campaign {

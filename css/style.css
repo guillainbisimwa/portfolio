@@ -89,3 +89,8 @@ p {
   background: var(--primary-color);
   width: 1%;
 }
+
+.sep_b {
+  background: var(--primary-color);
+  height: 1%;
+}

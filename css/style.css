@@ -85,3 +85,13 @@ p {
 .col-gap {
   column-gap: 1.5rem;
 }
+
+.sep {
+  background: var(--primary-color);
+  width: 1%;
+}
+
+.sep-b {
+  border-bottom: 0.5rem solid var(--primary-color) !important;
+  height: 100%;
+}

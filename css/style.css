@@ -90,7 +90,7 @@ p {
   width: 1%;
 }
 
-.sep_b {
-  background: var(--primary-color);
-  height: 1%;
+.sep-b {
+  border-bottom: 0.5rem solid var(--primary-color) !important;
+  height: 100%;
 }

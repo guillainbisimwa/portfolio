@@ -18,7 +18,7 @@ body {
   background: #0e0e0e url(../assets/2542.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: Roboto !important;
+  font-family: Roboto, Arial, sans-serif !important;
   font-size: 100%;
 }
 
@@ -27,8 +27,7 @@ body {
 html {
   box-sizing: border-box;
   font-size: 100%;
-  font: inherit;
-  font-family: Roboto !important;
+  font-family: Roboto, Arial, sans-serif !important;
 }
 
 img {

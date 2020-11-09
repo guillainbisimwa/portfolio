@@ -6,11 +6,11 @@
   --gray-color: #d3d3d3;
   --gray-60-color: #2120204d;
   --white-transparent: #f6f7f726;
-  --primary-transparent: #ec5242bf;
+  --primary-transparent: #ec53423b;
 }
 
 body {
-  background: url(../assets/bg.jpeg);
+  background: url(../assets/2542.jpg);
 }
 
 /* GLOBALS */
@@ -94,4 +94,17 @@ p {
 .sep-b {
   border-bottom: 0.5rem solid var(--primary-color) !important;
   height: 100%;
+}
+
+.img-container {
+  background-color: var(--primary-transparent);
+}
+
+.img-container img {
+  opacity: 0.5;
+}
+
+.img-container img:hover {
+  opacity: 0.8;
+  transition: 1s;
 }

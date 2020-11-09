@@ -85,6 +85,7 @@ p {
 .col-gap {
   column-gap: 1.5rem;
 }
+
 .sep {
   background: var(--primary-color);
   width: 1%;

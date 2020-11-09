@@ -1,5 +1,10 @@
 /* Style Sheet */
 
+@font-face {
+  font-family: "Roboto";
+  src: url("../assets/Roboto/Roboto-Regular.ttf");
+}
+
 :root {
   --primary-color: #ec5242;
   --dark-color: #0e0e0e;
@@ -11,14 +16,17 @@
 
 body {
   background: url(../assets/2542.jpg);
+  font-family: Roboto !important;
+  font-size: 100%;
 }
 
 /* GLOBALS */
 
 html {
-  font-size: 95%;
   box-sizing: border-box;
-  font-family: "Lato", sans-serif;
+  font-size: 100%;
+  font: inherit;
+  font-family: Roboto !important;
 }
 
 img {
@@ -34,6 +42,10 @@ a {
 a:hover {
   color: var(--primary-color) !important;
   text-decoration: none;
+}
+
+h2 {
+  font-weight: bolder;
 }
 
 p {

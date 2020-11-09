@@ -15,7 +15,9 @@
 }
 
 body {
-  background: url(../assets/2542.jpg);
+  background: #0e0e0e url(../assets/2542.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: Roboto !important;
   font-size: 100%;
 }

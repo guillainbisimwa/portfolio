@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillain BISIMWA</h1>
-<h3 align="center">A passionate Full-Stack Web Developer. developer from DRC</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from DRC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillainbisimwa&label=Profile%20views&color=0e75b6&style=flat" alt="guillainbisimwa" /> </p>
 
@@ -11,20 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://guillainbisimwa.github.io/portfolio/](https://guillainbisimwa.github.io/portfolio/)
 
-- 📝 I regulary write articles on [https://medium.com/@guillainbisimwa](https://medium.com/@guillainbisimwa)
-
 - 💬 Ask me about **React, Ruby, React native**
 
 - 📫 How to reach me **guillainbisimwa@hotmail.fr**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pk1DedK4cquTUmTBW6Cgfz1iaJGpdsHN/view?usp=sharing](https://drive.google.com/file/d/1pk1DedK4cquTUmTBW6Cgfz1iaJGpdsHN/view?usp=sharing)
-
-- ⚡ Fun fact **Don't hesitate to contact me.**
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

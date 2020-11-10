@@ -1,8 +1,6 @@
 # About Me
 
-Hi I’m Guillain, a Full-Stack Web Developer.
-
-Full-Stack Web Developer. Able to collaborate within a productive team both remotely and locally. Don't hesitate to contact me.
+Hi I’m Guillain, a Full-Stack Web Developer. Ready to collaborate within a productive team both remotely and locally. Don't hesitate to contact me.
 
 I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
@@ -40,4 +38,4 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillainbisimwa&layout=compact&langs_count=8)](https://github.com/guillainbisimwa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillainbisimwa&layout=compact&langs_count=7)](https://github.com/guillainbisimwa)

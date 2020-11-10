@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Guillain BISIMWA</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from DRC</h3>
+# About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guillainbisimwa&label=Profile%20views&color=0e75b6&style=flat" alt="guillainbisimwa" /> </p>
+Hi I’m Guillain, a Full-Stack Web Developer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillainbisimwa" alt="guillainbisimwa" /></a> </p>
+Full-Stack Web Developer. Able to collaborate within a productive team both remotely and locally. Don't hesitate to contact me.
 
-<p align="left"> <a href="https://twitter.com/gullain_bisimwa" target="blank"><img src="https://img.shields.io/twitter/follow/gullain_bisimwa?logo=twitter&style=for-the-badge" alt="gullain_bisimwa" /></a> </p>
+I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
-- 🌱 I’m currently learning **Ruby on rails and redux**
-
-- 👨‍💻 All of my projects are available at [https://guillainbisimwa.github.io/portfolio/](https://guillainbisimwa.github.io/portfolio/)
-
-- 💬 Ask me about **React, Ruby, React native**
-
-- 📫 How to reach me **guillainbisimwa@hotmail.fr**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/) || [Twitter](https://twitter.com/gullain_bisimwa) || guillainbisimwa@hotmail.fr
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pk1DedK4cquTUmTBW6Cgfz1iaJGpdsHN/view?usp=sharing](https://drive.google.com/file/d/1pk1DedK4cquTUmTBW6Cgfz1iaJGpdsHN/view?usp=sharing)
+
+## Currently Working On
+
+- [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. Feel free to fork / clone and make PR's!
+
+## Projects
+
+- [Worl-Music-Festival](https://guillainbisimwa.github.io/Worl-Music-Festival/) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin.
+- [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is a Twitter bot that posts inspirational gem suggestions, reply to tweets, follow and tags ruby developer who needs help while developing in ruby using our list of #.
+- [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018.
+- [Rails-blog-app](https://fierce-reaches-67219.herokuapp.com/articles) - A Ruby on Rails CRUD blog app that lets you posts and comments
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillainbisimwa&show_icons=true&locale=en&layout=compact" alt="guillainbisimwa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillainbisimwa&show_icons=true&locale=en" alt="guillainbisimwa" /></p>
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillainbisimwa&layout=compact&langs_count=10)](https://github.com/guillainbisimwa)

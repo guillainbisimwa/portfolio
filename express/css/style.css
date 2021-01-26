@@ -150,3 +150,10 @@ footer {
   color: #0e0e0e;
   padding: 19px;
 }
+
+@media (min-width: 768px) {
+  .col-md-4 {
+    flex: 0 0 33.33333%;
+    max-width: 30.33333%;
+  }
+}

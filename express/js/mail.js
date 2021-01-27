@@ -1,3 +1,4 @@
+
 $( document ).ready(function() {
     
     $("#send_msg").click(function(){
@@ -11,7 +12,7 @@ $( document ).ready(function() {
         else{
             $("#contactName").removeClass('border-danger')         
         }
-        if(email.length < 2 || email.length > 20 ){
+        if(/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test(email) == false){
             $("#contactEmail").addClass('border-danger')
         }
         else {

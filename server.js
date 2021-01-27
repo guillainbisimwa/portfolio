@@ -16,4 +16,3 @@ app.use('/', function(req,res){
 //server.listen(port);
 app.listen(PORT, () => console.log(`Listening on ${ PORT }`))
 
-//console.debug('Server listening on port ' + port);

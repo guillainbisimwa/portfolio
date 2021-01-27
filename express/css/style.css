@@ -130,10 +130,22 @@ footer {
 }
 
 .img-container img {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .img-container img:hover {
   opacity: 0.8;
   transition: 1s;
+}
+
+.info_project {
+  background: #fff;
+  position: absolute;
+  left: 0;
+  width: 85%;
+  top: 25%;
+  border-radius: 4px;
+  box-shadow: 0px 10px 30px rgba(255, 253, 253, 0.15);
+  color: #0e0e0e;
+  padding: 10px;
 }

@@ -29,6 +29,8 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 - [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Build with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
   [Official website](https://kitungamonpanier.com/)
 
+- [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Build with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/guillainbisimwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="guillainbisimwa" height="30" width="40" /></a>

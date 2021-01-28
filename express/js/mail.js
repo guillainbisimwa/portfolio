@@ -7,39 +7,49 @@ $( document ).ready(function() {
         var email =  $("#contactEmail").val()
         var msg =  $("#contactMessage").val()
 
+        var success = true;
+
         if(name.length < 2 || name.length > 15 ){
             $("#contactName").addClass('border-danger')
+            success = false
         }
         else{
-            $("#contactName").removeClass('border-danger')         
+            $("#contactName").removeClass('border-danger')
+            success = true
         }
         if(/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test(email) == false){
             $("#contactEmail").addClass('border-danger')
+            success = false
         }
         else {
-            $("#contactEmail").removeClass('border-danger')          
+            $("#contactEmail").removeClass('border-danger')
+            success = true
         }
         if(msg.length < 5 || msg.length > 100 ){
             $("#contactMessage").addClass('border-danger')
+            success = false
         }
         else{
-            $("#contactMessage").removeClass('border-danger')            
+            $("#contactMessage").removeClass('border-danger')
+            success = true
         }
-
-        Email.send({
-            SecureToken : "60629796-104b-4824-bf91-366ed67321c7",
-            To : 'guillainbisimwam@gmail.com',
-            From : "you@isp.com",
-            Subject : "This is the subject",
-            Body : "And this is the body",
-            Attachments : [
-            {
-                name : "smtpjs.png",
-                path : "https://networkprogramming.files.wordpress.com/2017/11/smtpjs.png"
-            }]
-        }).then(
-          message => alert(message)
-        );
+        if(success){
+            Email.send({
+                SecureToken : "60629796-104b-4824-bf91-366ed67321c7",
+                To : 'guillainbisimwam@gmail.com',
+                From : "you@isp.com",
+                Subject : "This is the subject",
+                Body : "And this is the body",
+                Attachments : [
+                {
+                    name : "smtpjs.png",
+                    path : "https://networkprogramming.files.wordpress.com/2017/11/smtpjs.png"
+                }]
+            }).then(
+              message => alert(message)
+            );
+        }
+        
 
         // Email.send({
         //     SecureToken : "60629796-104b-4824-bf91-366ed67321c7",

@@ -19,7 +19,10 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
   [Live version](https://guillainbisimwa.github.io/Worl-Music-Festival/)
 
 - [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is a Twitter bot that posts inspirational gem suggestions, reply to tweets, follow and tags ruby developer who needs help while developing in ruby using our list of #.
+
 - [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018.
+  [Live version](https://drc-ebola-outbreak.herokuapp.com/)
+
 - [Rails-blog-app](https://fierce-reaches-67219.herokuapp.com/articles) - A Ruby on Rails CRUD blog app that lets you posts and comments
 
 <h3 align="left">Connect with me:</h3>

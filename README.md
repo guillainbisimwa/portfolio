@@ -10,7 +10,7 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Currently Working On
 
-- [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. Feel free to fork / clone and make PR's!
+- [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. it facilitate access to financial service. Built with: React Native, Redux, Couchbase, Docker, and NodeJs. 
 
 ## Projects
 

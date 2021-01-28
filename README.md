@@ -11,7 +11,7 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 ## Currently Working On
 
 - [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. it facilitate access to financial service. Built with: `React Native`, `Redux`, `Couchbase`, `Docker`, and `NodeJs`.
-  [Live version](https://play.google.com/store/apps/details?id=com.wezalab.bomoko), [Official website](http://bomoko-app.com/),
+  [Play store](https://play.google.com/store/apps/details?id=com.wezalab.bomoko), [Official website](http://bomoko-app.com/),
 
 ## Projects
 
@@ -27,7 +27,7 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
   [Live version](https://fierce-reaches-67219.herokuapp.com/)
 
 - [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Build with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
-  [Official website](https://kitungamonpanier.com/)
+  [Official website](https://kitungamonpanier.com/), [Play store](https://play.google.com/store/apps/details?id=com.cordaid.kmp)
 
 - [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Build with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
 

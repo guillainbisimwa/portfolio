@@ -10,7 +10,7 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Currently Working On
 
-- [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. it facilitate access to financial service. Built with: `React Native`, `Redux`, `Couchbase`, `Docker`, and `NodeJs`.
+- [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Help Congolese small-scale farmers who are unbanked to have access to affordable loans using mobile phones (USSD). Our solution is to facilitate the financial inclusion of farmers and use mobile phones to give loans to smallholder farmers. Built with: `React Native`, `Redux`, `Couchbase`, `Docker`, and `NodeJs`.
   [Play store](https://play.google.com/store/apps/details?id=com.wezalab.bomoko), [Official website](http://bomoko-app.com/),
 
 ## Projects
@@ -18,9 +18,9 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 - [Worl-Music-Festival](https://github.com/guillainbisimwa/Worl-Music-Festival) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin. Built with: `HTML`, `bootstrap4` and `css3-flexbox`.
   [Live version](https://guillainbisimwa.github.io/Worl-Music-Festival/)
 
-- [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is a Twitter bot that posts inspirational gem suggestions, reply to tweets, follow and tags ruby developer who needs help while developing in ruby using our list of #.
+- [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is my Capstone solo project for the Ruby Microverse Main Technical Curriculum section. This is a Twitter bot that posts inspirational gem suggestions, replies to tweets, follows and tags ruby developer who needs help while developing in ruby using our list of #. Built with: `Ruby`, `Rspec`, `Rubocop`.
 
-- [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018. Buit with: `flask`, `postgresql`, `python3`, `dash`, `rest-api`, `heroku`.
+- [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It shows the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018. Buit with: `flask`, `postgresql`, `python3`, `dash`, `rest-api`, `heroku`.
   [Live version](https://drc-ebola-outbreak.herokuapp.com/)
 
 - [Rails-blog-app](https://github.com/guillainbisimwa/members-only) - A Ruby on Rails CRUD blog app that lets you posts and comments. Build with: `Ruby on Rails`, `postgresql`, `RSpec`, and `Capybara`.

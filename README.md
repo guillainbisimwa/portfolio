@@ -20,10 +20,11 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 - [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is a Twitter bot that posts inspirational gem suggestions, reply to tweets, follow and tags ruby developer who needs help while developing in ruby using our list of #.
 
-- [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018.
+- [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018. Buit with: `flask`, `postgresql`, `python3`, `dash`, `rest-api`, `heroku`.
   [Live version](https://drc-ebola-outbreak.herokuapp.com/)
 
-- [Rails-blog-app](https://fierce-reaches-67219.herokuapp.com/articles) - A Ruby on Rails CRUD blog app that lets you posts and comments
+- [Rails-blog-app](https://github.com/guillainbisimwa/members-only) - A Ruby on Rails CRUD blog app that lets you posts and comments. Build with: `Ruby on Rails`, `postgresql`, `RSpec`, and `Capybara`.
+  [Live version](https://fierce-reaches-67219.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

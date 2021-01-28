@@ -11,10 +11,12 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 ## Currently Working On
 
 - [Bomoko app](https://github.com/guillainbisimwa/bomoko-app) - Bomoko is a highly promising Micro lending Agri-FinTech mobile App and will provide digital loans to underserved smallholder farmers (including coffee farmers) across the Congolese emerging markets. it facilitate access to financial service. Built with: `React Native`, `Redux`, `Couchbase`, `Docker`, and `NodeJs`.
+  [Live version](https://play.google.com/store/apps/details?id=com.wezalab.bomoko)
 
 ## Projects
 
-- [Worl-Music-Festival](https://guillainbisimwa.github.io/Worl-Music-Festival/) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin. Built with: `HTML`, `bootstrap4` and `css3-flexbox`.
+- [Worl-Music-Festival](https://github.com/guillainbisimwa/Worl-Music-Festival) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin. Built with: `HTML`, `bootstrap4` and `css3-flexbox`.
+  [Live version](https://guillainbisimwa.github.io/Worl-Music-Festival/)
 
 - [Twitter gem suggestions bot](https://github.com/guillainbisimwa/Twitter-gem-suggestions-bot) - This is a Twitter bot that posts inspirational gem suggestions, reply to tweets, follow and tags ruby developer who needs help while developing in ruby using our list of #.
 - [DRC Ebola evolution](https://github.com/guillainbisimwa/DRC-ebola-evolution) - This simple project demonstrates the utility of data science. It's show the evolution of the Ebola outbreak that has been occurring in the north-east of the DRC since August 2018.

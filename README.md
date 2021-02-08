@@ -15,7 +15,7 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Projects
 
-- [Loan Group management](https://github.com/guillainbisimwa/Loan-Group-management) - This is a loan application system. It's a web application with a good responsive design, built with Ruby on Rails to facilitate financial inclusion by giving loans to people. Built with: `Ruby on rails`, `postgresql`, `Heroku`, `RSpec`, `Capybara`.
+- [Loan Group management](https://github.com/guillainbisimwa/Loan-Group-management) - This is a loan application system. It's a web application with a good responsive design, built with Ruby on Rails to facilitate financial inclusion by giving loans to people. Built with: `Ruby on Rails`, `PostgreSQL`, `Heroku`, `RSpec`, `Capybara`.
   [Live version](https://mysterious-beyond-28823.herokuapp.com/)
 
 - [Worl-Music-Festival](https://github.com/guillainbisimwa/Worl-Music-Festival) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin. Built with: `HTML`, `bootstrap4` and `css3-flexbox`.

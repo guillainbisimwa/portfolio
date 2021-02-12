@@ -15,6 +15,9 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Projects
 
+- [Restaurant Webpack](https://github.com/guillainbisimwa/restaurant) - The main goal of this project is to understand the benefits of modularized code as well as the ability to set up a javascript application made of different modules using Webpack. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`.
+  [Live version](http://gbisimwa.me/restaurant/)
+
 - [Loan Group management](https://github.com/guillainbisimwa/Loan-Group-management) - This is a loan application system. It's a web application with a good responsive design, built with Ruby on Rails to facilitate financial inclusion by giving loans to people. Built with: `Ruby on Rails`, `PostgreSQL`, `Heroku`, `RSpec`, `Capybara`.
   [Live version](https://mysterious-beyond-28823.herokuapp.com/)
 

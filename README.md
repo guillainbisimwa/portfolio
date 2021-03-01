@@ -15,6 +15,15 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Projects
 
+- [To-Do-List](https://github.com/guillainbisimwa/To-Do-List) - This project was built as part of the Microverse JavaScript module. The goal of the project is to build a simple Todo App using Webpack and ES6 by dynamically creating the DOM elements. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`, `localStorage`.
+  [Live version](http://gbisimwa.me/To-Do-List/)
+
+- [Restaurant Webpack](https://github.com/guillainbisimwa/restaurant) - The main goal of this project is to understand the benefits of modularized code as well as the ability to set up a javascript application made of different modules using Webpack. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`.
+  [Live version](http://gbisimwa.me/restaurant/)
+
+- [Loan Group management](https://github.com/guillainbisimwa/Loan-Group-management) - This is a loan application system. It's a web application with a good responsive design, built with Ruby on Rails to facilitate financial inclusion by giving loans to people. Built with: `Ruby on Rails`, `PostgreSQL`, `Heroku`, `RSpec`, `Capybara`.
+  [Live version](https://mysterious-beyond-28823.herokuapp.com/)
+
 - [Worl-Music-Festival](https://github.com/guillainbisimwa/Worl-Music-Festival) - This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin. Built with: `HTML`, `bootstrap4` and `css3-flexbox`.
   [Live version](https://guillainbisimwa.github.io/Worl-Music-Festival/)
 
@@ -26,10 +35,10 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 - [Rails-blog-app](https://github.com/guillainbisimwa/members-only) - A Ruby on Rails CRUD blog app that lets you posts and comments. Build with: `Ruby on Rails`, `postgresql`, `RSpec`, and `Capybara`.
   [Live version](https://fierce-reaches-67219.herokuapp.com/)
 
-- [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Build with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
+- [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Built with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
   [Official website](https://kitungamonpanier.com/), [Play store](https://play.google.com/store/apps/details?id=com.cordaid.kmp)
 
-- [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Build with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
+- [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Built with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -56,3 +65,26 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 ## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillainbisimwa&layout=compact&langs_count=7)](https://github.com/guillainbisimwa)
+
+
+## Author
+
+👤 **Guillain Bisimwa**
+
+- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
+- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
+- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/guillainbisimwa/portfolio/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.

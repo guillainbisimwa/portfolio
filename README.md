@@ -65,3 +65,26 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 ## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillainbisimwa&layout=compact&langs_count=7)](https://github.com/guillainbisimwa)
+
+
+## Author
+
+👤 **Guillain Bisimwa**
+
+- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
+- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
+- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/guillainbisimwa/portfolio/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.

@@ -15,6 +15,9 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Projects
 
+- [To-Do-List](https://github.com/guillainbisimwa/To-Do-List) - This project was built as part of the Microverse JavaScript module. The goal of the project is to build a simple Todo App using Webpack and ES6 by dynamically creating the DOM elements. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`, `localStorage`.
+  [Live version](http://gbisimwa.me/To-Do-List/)
+
 - [Restaurant Webpack](https://github.com/guillainbisimwa/restaurant) - The main goal of this project is to understand the benefits of modularized code as well as the ability to set up a javascript application made of different modules using Webpack. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`.
   [Live version](http://gbisimwa.me/restaurant/)
 

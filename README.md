@@ -32,10 +32,10 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 - [Rails-blog-app](https://github.com/guillainbisimwa/members-only) - A Ruby on Rails CRUD blog app that lets you posts and comments. Build with: `Ruby on Rails`, `postgresql`, `RSpec`, and `Capybara`.
   [Live version](https://fierce-reaches-67219.herokuapp.com/)
 
-- [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Build with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
+- [Kitunga Mon Panier](https://kitungamonpanier.com/) - A solution-based system that draws on Congolese originality for your purchases, your sales, your transfers, your trips and your payment of invoices, academic fees, taxes, taxes... Built with: `React native`, `Redux`, `mongodb`, `mongo atlas`, `heroku`, `nodejs`, and `restfull api`.
   [Official website](https://kitungamonpanier.com/), [Play store](https://play.google.com/store/apps/details?id=com.cordaid.kmp)
 
-- [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Build with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
+- [Electron-hpnk](https://github.com/guillainbisimwa/electron-hpnk) - This is a Desktop application developed with Electron. It manages the stock and monitoring of drugs in a hospital. This application works on Windows, MacOS and Linux operating systems. Built with: `Electronjs`, `datatables`, `jquery`, `material-kit`, `nedb`, and `camo db`.
 
 <h3 align="left">Connect with me:</h3>
 

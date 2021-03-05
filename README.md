@@ -15,6 +15,9 @@ I love working with React, React Native, Javascript, Ruby, and Ruby on Rails.
 
 ## Projects
 
+- [Weather-App](https://github.com/guillainbisimwa/Weather-App) - A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`, `OpenWeatherMap API`.
+  [Live version](http://gbisimwa.me/Weather-App/)
+
 - [To-Do-List](https://github.com/guillainbisimwa/To-Do-List) - This project was built as part of the Microverse JavaScript module. The goal of the project is to build a simple Todo App using Webpack and ES6 by dynamically creating the DOM elements. Built with: `JavaScript`, `ES6`, `Git`, `Webpack`, `Eslint`, `Babel`, `localStorage`.
   [Live version](http://gbisimwa.me/To-Do-List/)
 
